@@ -1,5 +1,6 @@
-# HROps
-HR Operations made easy. It simplifies complex HR workflows like leave requests and attendance tracking using automated background jobs.
+# HROps - HR Operations made easy 
+It simplifies complex HR workflows like onboarding and managingig employees, assigning job-profile and department to the employee.
+It also simplifies leave requests, payslip generation and attendance tracking using automated background jobs.
 
 
 ## Live Demonstration
@@ -21,9 +22,9 @@ HR Operations made easy. It simplifies complex HR workflows like leave requests 
 * Track individual employee data, roles, and departmental assignments.
 
 **Attendance Tracking**
-* Real-time attendance logging and monitoring system.
+* Real-time attendance logging and monitoring system by employee.
 * Functionality to view historical attendance records and statuses.
-* Integration with Inngest for event-driven, asynchronous background processing
+* Integration with Inngest for event-driven, asynchronous background processing.
 
 **Leave Management**
 * Employees can seamlessly submit leave applications.
